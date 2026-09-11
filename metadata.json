@@ -1,0 +1,6 @@
+{
+  "name": "專案管理與 RFI 追蹤系統",
+  "description": "整合看板式工作流 (Kanban)、時程甘特圖 (Gantt Chart) 與資訊需求單 (RFI) 追蹤之企業專案管理系統，具備角色權限控管、剪貼簿圖片上傳、活動歷程與通知功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
